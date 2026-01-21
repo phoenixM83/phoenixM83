@@ -50,10 +50,11 @@ Combina metais refratários, cerâmicas ultra-duras e redes carbono-quânticas e
 ---
 
 ## 📊 Skills & Focus
-- Pesquisa em cibersegurança e análise de malware  
-- Física teórica e simulações cosmológicas  
+- Pesquisa em cibersegurança e análise extrema de malware  
+- Física teórica, fisica quantica, astrofica, cosmologia e simulações cosmológicas  
 - Conceitos avançados em ciência dos materiais  
-- Exploração criativa de tecnologias de fronteira  
+- Exploração criativa de tecnologias de fronteiras
+- Desenvolvimento belico a partir da quimica e engenharia reversa  
 
 ---
 
