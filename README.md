@@ -27,7 +27,7 @@ Sou **phoenixM83**, pesquisador e desenvolvedor explorando
 ### ⚛️ NEUTRONYX ALPHA  
 [🔗 Repositório](https://github.com/phoenixM83/NEUTRONIX-ALPHA)  
 
-Um projeto conceitual revolucionário:  
+Um projeto conceitual revolucionário, licenciado & patenteado 
 **Estado Primordial de Matéria Condensada Hiperestrutural**, inspirado nos núcleos de estrelas de nêutrons.  
 Combina metais refratários, cerâmicas ultra-duras e redes carbono-quânticas em uma nova classe de matéria engenheirada.  
 
